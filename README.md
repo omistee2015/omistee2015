@@ -1,55 +1,44 @@
-# Hi, I'm Tope 👋
+# 👋 Hello, I'm Top Tech
 
-## Web Developer | Business Website Developer
+## 🌐 Web Developer | Business Website Specialist
 
-I build professional, responsive and user-friendly websites for
-businesses, organizations and individuals.
+I create modern, responsive and professional websites for
+businesses, organizations and individuals worldwide.
 
-### 🛠️ My Skills
+### 💻 What I Do
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- Git & GitHub
-- GitHub Pages
-- Basic SEO
-- Business Websites
-
-### 💼 What I Can Build
-
-- Business Websites
-- Company Websites
-- Landing Pages
-- Website Redesigns
-- WhatsApp Integration
+- Business Website Development
+- Responsive Website Design
+- Landing Page Development
+- Portfolio Websites
+- Website Redesign
 - Website Maintenance
-- Basic SEO Setup
+- Basic SEO
+- GitHub Pages Deployment
 
-### 🌐 Featured Project
+### 🛠️ Technologies
 
-#### Top Tech Business Website
+HTML • CSS • JavaScript • Git • GitHub • GitHub Pages
 
-A professional business website for Top Tech, providing:
+### 🚀 My Portfolio
 
-- CCTV
-- Solar & Inverter
-- Satellite TV
-- Networking
+🌐 [View My Web Developer Portfolio](https://omistee2015.github.io/web-developer-portfolio/)
 
-👉 [View Top Tech Website](https://omistee2015.github.io/top-tech-website/)
+### 📂 Featured Projects
 
-### 💻 My Developer Portfolio
+- [Top Tech](https://omistee2015.github.io/top-tech-website/)
+- [Taste Haven](https://omistee2015.github.io/restaurant-website/)
+- [SunPower Solutions](https://omistee2015.github.io/solar-inverter-website/)
+- [SecureVision CCTV](https://omistee2015.github.io/securevision-cctv/)
 
-👉 [View My Portfolio](https://omistee2015.github.io/web-developer-portfolio/)
+### 🌍 Availability
 
-### 📱 Contact Me
+Available for web-development projects worldwide.
 
-WhatsApp: [Chat with me](https://wa.me/2348052778828)
+### 📞 Contact
+
+WhatsApp: +234 805 277 8828
 
 ---
 
-### 🚀 Available for Website Development Projects
-
-If you need a professional website for your business,
-feel free to contact me.
+**Let's build a professional website for your business.**
